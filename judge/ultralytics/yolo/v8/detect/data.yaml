@@ -1,0 +1,5 @@
+train: C:\Users\xiaoou\PycharmProjects\pythonProject\yolov8\datasets\images\train
+val: C:\Users\xiaoou\PycharmProjects\pythonProject\yolov8\datasets\images\valid
+
+nc: 1
+names: ['blood_cancer']

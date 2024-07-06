@@ -1,0 +1,5 @@
+train: D:\ai\ccc\ultralytics-main\datasets\images\train
+val: D:\ai\ccc\ultralytics-main\datasets\images\valid
+
+nc: 1
+names: ['pharyngolaryngeal_cancer']
